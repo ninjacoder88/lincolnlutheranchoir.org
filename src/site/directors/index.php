@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en" class="h-100">
+    <?php include("../_head.html"); ?>
+    <body class="d-flex flex-column h-100">
+        <?php include("../_header.html"); ?>
+        <!--content-->
+		<div id="content" class="container mb-5 mt-3">
+			<div class="row">
+				<div class="col-3">
+					<div class="list-group" style="position: fixed;">
+						<a href="#julia-marble" class="list-group-item list-group-item-secondary">Julia Marble <br/>Spring 2019 - Present</a>
+						<a href="#brett-epperson" class="list-group-item list-group-item-secondary">Brett Epperson <br/>Fall 2015 – Fall 2018</a>
+						<a href="#janene-sheldon" class="list-group-item list-group-item-secondary">Dr. Janene Sheldon <br/>Fall 2014 – Spring 2015</a>
+						<a href="#kurt-knecht" class="list-group-item list-group-item-secondary">Dr. Kurt Knecht <br/>Fall 2012 – Spring 2014</a>
+						<a href="#joshua-norris" class="list-group-item list-group-item-secondary">Dr. Joshua Norris <br/>Spring 2007 – Spring 2012</a>
+						<a href="#james-lytton" class="list-group-item list-group-item-secondary">James J. Lytton <br/>Fall 2006 – Spring 2007</a>
+						<a href="#stephen-mohring" class="list-group-item list-group-item-secondary">Stephen Mohring <br/>Spring 2006</a>
+						<a href="#william-kuhn" class="list-group-item list-group-item-secondary">Kathleen Ohlman <br/>Fall 2003 – Fall 2005</a>
+						<a href="#william-kuhn" class="list-group-item list-group-item-secondary">William Kuhn <br/>Fall 1999 – Spring 2003</a>
+						<a href="#cassandra-mcmahan" class="list-group-item list-group-item-secondary">Cassandra S. McMahan <br/>Fall 1990 – Fall 1994</a>
+						<a href="#carlos-messerli" class="list-group-item list-group-item-secondary">Carlos Messerli <br/>1978 – Fall 1990 <br/>Spring 1995 – Spring 1998</a>
+					</div>
+				</div><!--/col-4-->
+				<div class="col-9">
+					<div id="julia-marble">
+						<strong>Julia Marble, Artistic Conductor and Director, Spring 2019</strong>
+						<p><img src="https://lincolnlutheranchoir.blob.core.windows.net/images/jmarble-10.jpg" style="float: right"/>Julia Marble is a Nebraska based conductor and musician. She holds a masters degree in choral conducting from the University of Nebraska-Lincoln under the guidance of Dr. Peter Eklund and Dr. Eph Ehly. She also received her B. S. in elementary education with a vocal music endorsement from Concordia University Nebraska. While at Concordia, Julia sang in both the University A Cappella Choir as well as the select Chamber Choir under the direction of Dr. Kurt von Kampen and toured over ten states and three countries. During her time at UNL, she sang in University Singers, Chamber Singers, and toured with University Singers to New York to perform in Carnegie Hall.</p>
+						<p>From 2011-2018, Julia was the artistic director of the Nebraska Youth Honor Choir located in Seward, Nebraska. She worked to expand the choir’s opportunities and choral repertoire during her years as director.</p>
+						<p>Julia is also the owner of Marble Music studios in Seward. In this position, she manages a team of excellent music teachers, teaches Suzuki violin lessons, and provides professional music for weddings and events.</p>
+						<p>As the new artistic director for the Lincoln Lutheran Choir, Julia is excited to bring her experience both as a conductor and also as an business owner. She believes in creating a vibrant choral community through diverse and engaging sacred repertoire following the Lutheran tradition, fostering healthy vocal technique and musicality within the choir, and sharing excitement about the creative arts within the greater Nebraska community.</p>
+					</div>
+					<hr/>
+					<div id="brett-epperson">
+						<strong>Brett Epperson, artistic conductor and director | Fall 2015 – Fall 2018</strong>
+						<p>Under Brett’s direction, the Lincoln Lutheran Choir has collaborated with the LPS All-City Girls Chorus, Lincoln Choral Artists, the Sacred Arts Homeschool Choir, composers David von Kampen, Kurt Knecht, Garrett Hope, and Connor Koppin, along with local chamber musicians and soloists.</p>
+						<p>Mr. Epperson has also been Director of Vocal Music at Lincoln East High School, a position he has held since the fall of 2013. He is a choral scholar at First Plymouth Church in Lincoln, having served as Interim Assistant Minister of Music in 2016-17. Mr. Epperson has maintained an active professional career, collaborating with amateur and professional performing arts organizations across the Midwest. A 2011 graduate of Luther College (Decorah, Iowa), Mr. Epperson completed a Master of Music degree in Conducting at Michigan State University in 2017. When not music-making, he enjoys reading, biking, sleeping, swimming, cooking, and spending time with friends and family.</p>
+					</div>
+					<div id="janene-sheldon">
+						<strong>Dr. Janene Sheldon | Fall 2014 – Spring 2015</strong>
+						<p>Dr. Janene Sheldon is a singer, pianist, conductor, and composer. She received her MM and DMA degrees in Voice Performance from the University of Nebraska Lincoln, where she also minored in music composition; her BA is in Music Education with a dance minor, Summa cum laude from Kearney State College (now UNK). On Aug. 11, 2014, Dr. Sheldon began a new adventure as the full time Professor of Choir, Piano, and Voice at Indian Hills Community College in Ottumwa, IA, where also conducted Concert Choir and Chamber Choir and taught Applied Voice and Theory Lab.</p>
+						<p>Dr. Sheldon taught at Nebraska Wesleyan University from 2004-2014, where she taught Applied Voice, Women’s Choir, Singer’s Diction, Vocal Pedagogy, Vocal Literature, Music for Elementary Teachers, Senior Capstone, Women in Music, Musicianship III, Chamber Singers, and Applied Piano. Dr. Sheldon also taught at Concordia University in Seward, NE from 1995-2007, teaching Applied Voice, Diction, and Sight-Singing/Ear Training, and providing musical direction for productions of Into the Woods and Down in the Valley.</p>
+						<p>She has been Music and Worship Director for St. Mark’s United Methodist and Grace United Methodist churches in Lincoln, Assistant Director and Scholarship singer for St. Paul UMC in Lincoln, has soloed in and conducted portions of Handel’s Messiah with orchestra, and has done music direction and accompanying for The Lincoln Community Playhouse, Lincoln’s Pinewood Bowl, Lincoln Public Schools, and the Lincoln Boys Choir.</p>
+						<p>Dr. Sheldon is a member of Pi Kappa Lambda, The National Association of Teachers of Singing, and Sigma Alpha Iota Music Fraternity. Dr. Sheldon has served as adjudicator, clinician, and choreographer throughout Nebraska, and was a Board of Trustees Scholar, Regents Scholar, a recipient of the Ida M. Vreeland Award for Composition, and has presented for the NATS Vocal Pedagogy Workshop.</p>
+					</div>
+					<div id="kurt-knecht">
+						<strong>Dr. Kurt Knecht | Fall 2012 – Spring 2014</strong>
+						<p>Kurt Knecht is a composer, organist, and conductor. His compositions have been described as “funky” and “joyous” in the Washington Post, and the American Record Guide has called him a “fresh voice.” His compositions have become a staple of the modern choral festival literature and have been performed at festivals and concerts in over 35 states. Recent performances of his compositions include international performances at festivals and concerts in Germany, Austria, Italy, the Netherlands, Singapore, Hong Kong, Canada, Mexico, the United Kingdom, Cuba, and a performance at the Kennedy Center by the Grammy Award winning Washington Chorale. He is regularly commissioned and publishes with Walton and Pavane. He has received the ASCAP Plus award (2008-2012) from the American Society of Composers, Authors, and Publishers. His composition Missa Prolationem was awarded the Folsom Prize for the most outstanding dissertation of the University of Nebraska in 2009. As an eclectic performer, Kurt has been a featured soloist with groups ranging from Smokey Robinson to The Florida Orchestra. Kurt also regularly appears as a concert organist and collaborative pianist. He has served as an accompanist to many of the nations leading choral conductors having performed in concert with Jo-Michael Scheibe, Jerry McCoy, Doreen Rao, Andre Thomas, Kevin Fenton, and Therees Hibbard. He received the Bachelor of Music from the University of Tampa with concentrations in Piano Performance and Theory, the Master of Music in Composition from Southern Methodist University, and the Doctor of Musical Arts in Composition with a minor in Organ Performance from the University of Nebraska – Lincoln.</p>
+					</div>
+					<div id="joshua-norris">
+						<strong>Dr. Joshua Norris | Spring 2007 – Spring 2012</strong>
+						<p>Dr. Joshua Norris is the elementary music specialist at Kit Carson International Academy in Las Vegas, Nevada where he teaches Pre-K to 5th grade and is comfortably back at home near to his roots. Prior to his move back to his home area, Norris was Assistant Professor of Music and Director of Choral Activities at McPherson College in McPherson, Kansas. As a doctoral student in Choral Conducting at the University of Nebraska-Lincoln, Norris conducted the Lincoln Lutheran Choir over 5 seasons and celebrated the choir’s 30th anniversary by taking the choir to perform at Avery Fisher Hall, Lincoln Center in New York City. Norris received his undergraduate degree in Music Education and Choral Conducting from Luther College in Decorah, Iowa under the guidance of the internationally renowned choral conductor, Weston Noble, and a Master of Music degree in Choral Conducting from Texas State University in San Marcos, Texas under Dr. Joey Martin. Norris’ past teaching appointments were at Nebraska Wesleyan University and Doane University during which time he also served on the staff at First- Plymouth Congregational Church in Lincoln. Prior to his time in Nebraska, Dr. Norris spent several years teaching music in the schools and churches of Texas, Montreal, Canada and Durham, England.</p>
+					</div>
+					<div id="james-lytton">
+						<strong>James J. Lytton | Fall 2006 – Spring 2007</strong>
+						<p>James J. (Jim) Lytton was Interim Director for the 2006-07 season. Born in Omaha, living in east and central Nebraska as a youth, later in Kansas City, Missouri, and most recently in Reno, Nevada, where he was Director of Music for St. Thomas Aquinas Cathedral. He received his Bachelor of Music Degree in organ from Westminster Choir College, Princeton, New Jersey, his Master’s in Choral Conducting from Southern Methodist University, Dallas, Texas, and also holds certification as ChoirMaster from the American Guild of Organists. Mr. Lytton’s classroom teaching experience in both public and private settings includes music, music history and theory and computer technology related courses. He has served in ten states as Director of Music or ChoirMaster and has prepared choirs to sing at Carnegie Hall and at the National Cathedral in Washington, D.C.</p>
+					</div>
+					<div id="stephen-mohring">
+						<strong>Stephen Mohring | Spring 2006</strong>
+						<p>Stephen Mohring, Interim Director for Spring 2006, is a native of Sioux City, Iowa. He received his Bachelor’s Degree in Music Education in 2003 and his Master of Music Degree in 2005 from the University of Nebraska-Lincoln. As part of his master’s program, he wrote a thesis which developed a measure to assess social outcomes in high school students. He has worked as a freelance music arranger, arranging music for school choirs and show choirs throughout Nebraska and across the midwest and has taught in the Lincoln Public Schools.</p>
+					</div>
+					<div id="kathleen-ohlman">
+						<strong>Kathleen Ohlman | Fall 2003 – Fall 2005</strong>
+						<p>Kathleen Ohlman, the Choir’s Interim Director from 2003 to 2005, directed choral music and taught both vocal and instrumental music in elementary, junior high, and high school settings. She served Lutheran schools in Houston, Texas; Kansas City, Missouri; Seward, Nebraska; and Lincoln, Nebraska. She received Bachelor’s and Master’s Degrees from Concordia University, Seward, Nebraska and is a candidate for a Ph.D. in Music Education from the University of Nebraska-Lincoln.</p>
+					</div>
+					<div id="william-kuhn">
+						<strong>William Kuhn | Fall 1999 – Spring 2003</strong>
+						<p>Dr. William Kuhn was the choir’s third director and past Associate Professor of Music at Concordia University – Seward, NE. Dr. Kuhn brought a rich music and cultural background to the choir. A 1977 graduate of Concordia University in River Forest, Illinois, he studied with such notable Lutheran musicians as Paul Bunjes, Richard Hillert, Carl Schalk, Herbert Gotsch and Thomas Gieschen. After teaching at Luther High School South in Chicago, Illinois, Kuhn received a call to teach music at Hong Kong International School, an American style college preparatory school run through the auspices of the Lutheran Board of Missions of the Lutheran Church-Missouri Synod. In addition to his work at HKIS, Kuhn was Minister of Music at Church of All Nations-Lutheran. In Hong Kong, Kuhn had the opportunity to work with English choral conductors Gordon Kembar and Professor Nicholas Routley, former Chorus Master of the Sydney Opera House and son of famed Church Historian, Erik Routley.</p>
+						<p>In the 1984-1985 school year, Dr. Kuhn was awarded a sabbatical to study at Northwestern University in Evanston, Illinois. He studied with Dr. Robert Harris and band legend Dr. John Paynter. Kuhn had the opportunity to study with well-known music education philosophers Dr. Bennett Reimer and Dr. David Elliott. In the fall of 1985 Kuhn returned to Hong Kong and remained there until he accepted a call to teach at Concordia University in 1993. In the year 2000, William Kuhn received his Doctor of Education degree from the University of Nebraska-Lincoln.</p>
+					</div>
+					<div id="cassandra-mcmahan">
+						<strong>Cassandra S. McMahan | Fall 1990 – Fall 1994</strong>
+						<p>Cassandra S. McMahan began her music career by directing several church choirs. She served the Lincoln Lutheran Choir as Assistant Director and also as Director. Cassie has held the position of Director of Parish and School Music at Faith Lutheran Church in Lincoln and has been a workshop leader and guest lecturer in the fields of choral music, music education, and family life ministry. She graduated from the University of Nebraska-Lincoln with a bachelor of Music Degree in piano performance and has done graduate work there in choral music. She received her Master’s Degree in Family Life Ministry from Concordia University, Seward, Nebraska in 2002.</p>
+					</div>
+					<div id="carlos-messerli">
+						<strong>Carlos Messerli | Founding Director | 1978 – Fall 1990, Spring 1995 – Spring 1998</strong>
+						<p>After a twenty-year career as teacher of music history, piano and director of the Concordia Singers of Concordia University in Seward, Nebraska and many years of service as a church musician, Dr. Carlos R. Messerli founded the Lincoln Lutheran Choir in 1978. Shortly thereafter he was called to become the founding Executive Director of the Lutheran Music Program, which sponsors a summer program in classical music for high school musicians on various Lutheran college campuses. He held this post until his retirement in 1995. For twelve years he was an active member of the group that developed the Lutheran Book of Worship and was co-author of the Manual of that publication. He served two terms as national President of the Association of Lutheran Church Musicians. Earlier, he served several terms as a national officer of the Lutheran Society for Worship, Music and Arts.</p>
+						<p>A native of Oregon, Dr. Messerli graduated from Concordia University in River Forest, Illinois. He went on to receive Master’s Degrees from Northwestern University (piano) and the University of Michigan (musicology); and a Ph.D. degree from the University of Iowa (choral literature). In 1994 Concordia University, River Forest, Illinois, conferred on him the honorary Doctor of Letters degree. Messerli was the content editor of “Celebrating the Musical Heritage of the Lutheran Church,” funded by Thrivent Financial for Lutherans, Carlos and his wife, Susan are now retired in Oak Park, Illinois. Dr. Messerli was director from 1978 through 1998.</p>
+						<p>After a courageous battle with lymphoma, Dr Messerli passed away on November 9, 2017. His vision for Lincoln Lutheran Choir will continue to live in the hearts and minds of it’s leaders and singers. The 40th Anniversary Concert is dedicated to the memory of Dr. Messerli and the theme for the concert, “Think About Such Things”, is from one of his favorite biblical texts.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+        <?php include("../_footer.html"); ?>
+    </body>
+</html>
