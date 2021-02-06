@@ -6,8 +6,8 @@
         <!--content-->
 		<div id="content" class="container mb-5 mt-3">
 			<div class="row">
-				<div class="col-3">
-					<div class="list-group" style="position: fixed;">
+				<div class="col-12 col-md-3">
+					<div class="list-group">
 						<a href="#julia-marble" class="list-group-item list-group-item-secondary">Julia Marble <br/>Spring 2019 - Present</a>
 						<a href="#brett-epperson" class="list-group-item list-group-item-secondary">Brett Epperson <br/>Fall 2015 – Fall 2018</a>
 						<a href="#janene-sheldon" class="list-group-item list-group-item-secondary">Dr. Janene Sheldon <br/>Fall 2014 – Spring 2015</a>
@@ -21,7 +21,7 @@
 						<a href="#carlos-messerli" class="list-group-item list-group-item-secondary">Carlos Messerli <br/>1978 – Fall 1990 <br/>Spring 1995 – Spring 1998</a>
 					</div>
 				</div><!--/col-4-->
-				<div class="col-9">
+				<div class="col-12 col-md-9">
 					<div id="julia-marble">
 						<strong>Julia Marble, Artistic Conductor and Director, Spring 2019</strong>
 						<p><img src="https://lincolnlutheranchoir.blob.core.windows.net/images/jmarble-10.jpg" style="float: right"/>Julia Marble is a Nebraska based conductor and musician. She holds a masters degree in choral conducting from the University of Nebraska-Lincoln under the guidance of Dr. Peter Eklund and Dr. Eph Ehly. She also received her B. S. in elementary education with a vocal music endorsement from Concordia University Nebraska. While at Concordia, Julia sang in both the University A Cappella Choir as well as the select Chamber Choir under the direction of Dr. Kurt von Kampen and toured over ten states and three countries. During her time at UNL, she sang in University Singers, Chamber Singers, and toured with University Singers to New York to perform in Carnegie Hall.</p>

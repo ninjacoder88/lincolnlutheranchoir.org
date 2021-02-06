@@ -4,5 +4,23 @@ body {
 
 /*index*/
 ul.nav > li.nav-item:hover {
-		background-color: #666666;
+	background-color: #666666;
+}
+
+div.llc-header {
+	background-color: #344F64; 
+	width: 100%; 
+	min-height: 240px
+}
+
+@media screen and (max-width: 975px) {
+	div.llc-header {
+		min-height: 245px;
+	}
+}
+
+@media screen and (max-width: 750px) {
+	div.llc-header {
+		min-height: 284px;
+	}
 }
